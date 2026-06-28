@@ -1,0 +1,17 @@
+{
+    "$schema": "https://1c-syntax.github.io/bsl-language-server/configuration/schema.json",
+    "diagnostics": {
+        "parameters": {
+            "LatinAndCyrillicSymbolInWord": false,
+            "MissingVariablesDescription": false,
+            "FunctionNameStartsWithGet": true,
+            "MethodSize": false,
+            "CyclomaticComplexity": false,
+            "CognitiveComplexity": false,
+            "DuplicateStringLiteral": false,
+            "MagicNumber": false
+        },
+        "ordinaryAppSupport": true,
+        "skipSupport": "withSupport"
+    }
+}
