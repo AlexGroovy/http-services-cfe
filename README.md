@@ -75,6 +75,12 @@
 
 ---
 
+## Пример расширения Example
+
+В каталоге [`src/example`](src/example) — демонстрационное расширение с подсистемой `Example`: HTTP API контрагентов и договоров по OpenAPI (`Echo`, `GetContragents`, `CreateContragent`, `GetContracts`). Подробности — в [`src/example/README.md`](src/example/README.md).
+
+---
+
 ## Лицензия
 
 Исходный код распространяется на условиях **Mozilla Public License 2.0** (см. файл `LICENSE` в корне репозитория).
