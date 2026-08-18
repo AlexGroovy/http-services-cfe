@@ -48,7 +48,7 @@
 					<v8:content>HTTP-cервисы</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment />
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>HTTPСервисы_</NamePrefix>
@@ -58,16 +58,19 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<Vendor>Александр Янг</Vendor>
-			<Version>1.0.1.1</Version>
-			<BriefInformation/>
-			<DetailedInformation/>
-			<Copyright/>
-			<VendorInformationAddress/>
-			<ConfigurationInformationAddress/>
+			<Vendor>Александр Янг &amp; Александр Коновалов</Vendor>
+			<Version>1.0.2.1</Version>
+			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<BriefInformation />
+			<DetailedInformation />
+			<Copyright />
+			<VendorInformationAddress />
+			<ConfigurationInformationAddress />
 		</Properties>
 		<ChildObjects>
+			<Language>Русский</Language>
 			<Subsystem>HTTPСервисы</Subsystem>
+			<CommonPicture>HTTPСервисы</CommonPicture>
 			<Role>ИзменениеHTTPСервисов</Role>
 			<Role>ЧтениеHTTPСервисов</Role>
 			<CommonTemplate>ПредставлениеДереваJSON</CommonTemplate>
@@ -83,6 +86,7 @@
 			<Catalog>СхемыHTTPСервисов</Catalog>
 			<DataProcessor>ОбработчикHTTPСервисЗапроса</DataProcessor>
 			<DataProcessor>ОбработчикHTTPСервисОтвета</DataProcessor>
+			<InformationRegister>ЛогHTTPЗапросов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

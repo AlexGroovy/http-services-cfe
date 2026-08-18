@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Catalog.HTTPСервисы" id="f43783d2-776f-4672-83cc-09b2503d8440" configVersion="fb0c2b59ed873e6be7712dc180ed812d12360b71">
+		<Metadata name="Catalog.HTTPСервисы" id="f43783d2-776f-4672-83cc-09b2503d8440" configVersion="3633394935d1ddcec412221c3ba3e1d37e0b9c48">
 			<Metadata name="Catalog.HTTPСервисы.Attribute.Включен" id="07862218-9d16-4c0c-b53f-27605f9f2522"/>
 			<Metadata name="Catalog.HTTPСервисы.Attribute.Идентификатор" id="1518c5c3-4285-4d83-b416-d3eab31c1a84"/>
 			<Metadata name="Catalog.HTTPСервисы.Attribute.Схема" id="5c68603b-732d-4fc3-b912-99761a00cae6"/>
@@ -11,8 +11,8 @@
 		<Metadata name="Catalog.HTTPСервисы.Form.ФормаСписка.Form" id="4f15ef5c-b856-48d8-a1eb-81887c94265a.0" configVersion="acae1389586f92acbd1fe2dac26d652b735b5f92"/>
 		<Metadata name="Catalog.HTTPСервисы.Form.ФормаЭлемента" id="12a9b1b6-dd68-4b97-b1a1-82f19951f650" configVersion="9a7977091678ac320bbad4cbf44862030bd5b5b7"/>
 		<Metadata name="Catalog.HTTPСервисы.Form.ФормаЭлемента.Form" id="12a9b1b6-dd68-4b97-b1a1-82f19951f650.0" configVersion="f45c7d7b73bce65d3c597f7b732055550d1b1564"/>
-		<Metadata name="Catalog.HTTPСервисы.ManagerModule" id="f43783d2-776f-4672-83cc-09b2503d8440.3" configVersion="a2da0cd8faa9ab09676602deb050118e1fba4722"/>
-		<Metadata name="Catalog.СхемыHTTPСервисов" id="82e15a50-f21e-4c86-9992-f2c07feeda4d" configVersion="e6a60395084b3027649d0b5794cbcb7efec48e38">
+		<Metadata name="Catalog.HTTPСервисы.ManagerModule" id="f43783d2-776f-4672-83cc-09b2503d8440.3" configVersion="d3ef0e7e200f973b8ff2f8f1cbb90bd334b15f4b"/>
+		<Metadata name="Catalog.СхемыHTTPСервисов" id="82e15a50-f21e-4c86-9992-f2c07feeda4d" configVersion="702e4789a3da52ad74946a2c5898010e24b695a4">
 			<Metadata name="Catalog.СхемыHTTPСервисов.Attribute.Схема1С" id="0c0a841a-fa21-46fb-8a4a-276c5ffc7750"/>
 			<Metadata name="Catalog.СхемыHTTPСервисов.Attribute.Комментарий" id="49445b6b-1b6b-4640-a3f2-6a146754c9b1"/>
 			<Metadata name="Catalog.СхемыHTTPСервисов.Attribute.СхемаJSON" id="a4906858-e378-46cd-8c9a-736ca276c7cc"/>
@@ -21,36 +21,50 @@
 		<Metadata name="Catalog.СхемыHTTPСервисов.Form.ФормаСписка.Form" id="ae22894d-77d9-4fbb-8e96-959bbb135878.0" configVersion="b8b825e5d356225c9965bc8f53e74d7870699446"/>
 		<Metadata name="Catalog.СхемыHTTPСервисов.Form.ФормаЭлемента" id="103d0bc0-163e-41c8-91c5-3f49e1213270" configVersion="8a23fbee71aaa505bf914a13579a0e9ec148f4a6"/>
 		<Metadata name="Catalog.СхемыHTTPСервисов.Form.ФормаЭлемента.Form" id="103d0bc0-163e-41c8-91c5-3f49e1213270.0" configVersion="cc98b43340f5601e0188cfa20550c71e39473385"/>
-		<Metadata name="Catalog.СхемыHTTPСервисов.ManagerModule" id="82e15a50-f21e-4c86-9992-f2c07feeda4d.3" configVersion="074f532b4c75e42c2c1f6017bb1a86e557fac36f"/>
+		<Metadata name="Catalog.СхемыHTTPСервисов.ManagerModule" id="82e15a50-f21e-4c86-9992-f2c07feeda4d.3" configVersion="c82ca27e174fa1b9909b112779ababb8ba9b93d5"/>
 		<Metadata name="CommonModule.HTTPСервисЗапросы" id="36117736-6495-4e91-8cb0-d76c662e5e26" configVersion="1f2755a9a2cfdb0b0c7ed54322fba2d88df0336e"/>
-		<Metadata name="CommonModule.HTTPСервисЗапросы.Module" id="36117736-6495-4e91-8cb0-d76c662e5e26.0" configVersion="a8df80bab88ec1b60f48f692f9a46ffc260579ce"/>
+		<Metadata name="CommonModule.HTTPСервисЗапросы.Module" id="36117736-6495-4e91-8cb0-d76c662e5e26.0" configVersion="53bf151368a367f7f1b2e603939f7f228a3e3772"/>
 		<Metadata name="CommonModule.HTTPСервисЗапросыПереопределяемый" id="9804b86d-5947-4aec-8202-9a07515f0c85" configVersion="b6da4a7b7e53174aee6658b14f5be3c118db47a0"/>
-		<Metadata name="CommonModule.HTTPСервисЗапросыПереопределяемый.Module" id="9804b86d-5947-4aec-8202-9a07515f0c85.0" configVersion="4da7f01839c602ba10b7b11e79a5e7327f6c3582"/>
+		<Metadata name="CommonModule.HTTPСервисЗапросыПереопределяемый.Module" id="9804b86d-5947-4aec-8202-9a07515f0c85.0" configVersion="05e183835d785709ce7e2a6bbcb21be9417ac726"/>
 		<Metadata name="CommonModule.HTTPСервисЗапросыСлужебный" id="7c453f3b-842b-4b09-b3d5-a603832f54c0" configVersion="d09fb5f1a3cd7d9971722aa63659ad7b5556c48b"/>
-		<Metadata name="CommonModule.HTTPСервисЗапросыСлужебный.Module" id="7c453f3b-842b-4b09-b3d5-a603832f54c0.0" configVersion="167950622e0a3651dd04de458fdbd8d44ec9117b"/>
+		<Metadata name="CommonModule.HTTPСервисЗапросыСлужебный.Module" id="7c453f3b-842b-4b09-b3d5-a603832f54c0.0" configVersion="c8109e5aff69019cda9624dabb32b62df9c3a6ab"/>
 		<Metadata name="CommonModule.Коллекции" id="49f12596-6118-4298-9fcd-771e3f7caf4a" configVersion="034dfbca2ad4c9bd2756cbc9d854ba5f162cbaba"/>
-		<Metadata name="CommonModule.Коллекции.Module" id="49f12596-6118-4298-9fcd-771e3f7caf4a.0" configVersion="61a3ab8c398d3969439e63fa8f57b2cb265d8b34"/>
+		<Metadata name="CommonModule.Коллекции.Module" id="49f12596-6118-4298-9fcd-771e3f7caf4a.0" configVersion="bb8684ba93aa8c285543fb308eb6bae60e851a42"/>
 		<Metadata name="CommonModule.ОбработчикHTTPСервисЗапроса" id="962110b1-9571-437e-ac4d-cef7c9617687" configVersion="7796301a52c7d922158f3fe6565d92243b9b0b01"/>
-		<Metadata name="CommonModule.ОбработчикHTTPСервисЗапроса.Module" id="962110b1-9571-437e-ac4d-cef7c9617687.0" configVersion="6a6a52f1772204c4ed651e84ff8ebf3b45252d41"/>
+		<Metadata name="CommonModule.ОбработчикHTTPСервисЗапроса.Module" id="962110b1-9571-437e-ac4d-cef7c9617687.0" configVersion="80017a0adf0905223d0ddaeea5ccbe2e1960289d"/>
 		<Metadata name="CommonModule.СериализацияДанных" id="d52b4350-8f12-45a8-b8ca-5d71556a749c" configVersion="5b380e241d4b741e25d7c3c29637f1163a22270f"/>
-		<Metadata name="CommonModule.СериализацияДанных.Module" id="d52b4350-8f12-45a8-b8ca-5d71556a749c.0" configVersion="fdbe8c799127aa44aaf040866351c31e7d181940"/>
+		<Metadata name="CommonModule.СериализацияДанных.Module" id="d52b4350-8f12-45a8-b8ca-5d71556a749c.0" configVersion="cfc3d08537b4f3b92c1b0c4e15d0bb1c59165446"/>
 		<Metadata name="CommonModule.СхемыHTTPСервисов" id="f09464f3-3519-47b0-9019-5e5f6f8550ee" configVersion="9ca60aa6c0807f9d2cf4de98a005c9049db8f3bb"/>
-		<Metadata name="CommonModule.СхемыHTTPСервисов.Module" id="f09464f3-3519-47b0-9019-5e5f6f8550ee.0" configVersion="af83c6772faa92dece3211dc3683266caf757e0e"/>
+		<Metadata name="CommonModule.СхемыHTTPСервисов.Module" id="f09464f3-3519-47b0-9019-5e5f6f8550ee.0" configVersion="b2bed9cf1ead0e2fdee92fddc979e094bdd15188"/>
 		<Metadata name="CommonModule.СхемыHTTPСервисовПовтИсп" id="f43a3a73-3f3b-454d-80f9-6c06dda992ca" configVersion="197a97efece374c98fe492b13687ba91bb168dd8"/>
-		<Metadata name="CommonModule.СхемыHTTPСервисовПовтИсп.Module" id="f43a3a73-3f3b-454d-80f9-6c06dda992ca.0" configVersion="e72a20a237c325acad0e42e872a96afebfd4d654"/>
+		<Metadata name="CommonModule.СхемыHTTPСервисовПовтИсп.Module" id="f43a3a73-3f3b-454d-80f9-6c06dda992ca.0" configVersion="cb56d7949d60168e73f481f567e5e6645c4d62f4"/>
+		<Metadata name="CommonPicture.HTTPСервисы" id="3cc6eada-c99f-43b1-8c4b-613996479467" configVersion="b5a1c93f5f4fa071ad559729100e98f7bc04de8d"/>
+		<Metadata name="CommonPicture.HTTPСервисы.Picture" id="3cc6eada-c99f-43b1-8c4b-613996479467.0" configVersion="d0521361fef60045daffc26190c88f542894a21c"/>
 		<Metadata name="CommonTemplate.ПредставлениеДереваJSON" id="efc92d22-7717-48b4-9553-91ba8630c695" configVersion="d0c1164ec15e29a3ba2afb7384df8ffc97556541"/>
 		<Metadata name="CommonTemplate.ПредставлениеДереваJSON.Template" id="efc92d22-7717-48b4-9553-91ba8630c695.0" configVersion="8e551b73ec79f9fa43dc38d1cf3f442ffc2a1cad"/>
-		<Metadata name="Configuration.HTTPСервисы" id="012a54fa-43ca-45ac-8b15-e7f66654c7ba" configVersion="8105436ffa7e70a4e0a6b3cc610c0dfc79b1600e"/>
+		<Metadata name="Configuration.HTTPСервисы" id="012a54fa-43ca-45ac-8b15-e7f66654c7ba" configVersion="82a744b0ad6406953d502f6016a98b7e1d32bb19"/>
 		<Metadata name="Configuration.HTTPСервисы.CommandInterface" id="e8cc7b5c-c293-4074-9cc4-09a45bec5e98.a" configVersion="f762455b1763aa072ff6faacb7e11f08d9236636"/>
 		<Metadata name="DataProcessor.ОбработчикHTTPСервисЗапроса" id="73d6ba2b-5571-48a4-95c8-7544208b1305" configVersion="a90f6ad311aeec30da262c37a7f9c15d2c6bfe19"/>
-		<Metadata name="DataProcessor.ОбработчикHTTPСервисЗапроса.ObjectModule" id="73d6ba2b-5571-48a4-95c8-7544208b1305.0" configVersion="7a1d93ad9b32da89bf00cb13b2ba036091f4bf24"/>
+		<Metadata name="DataProcessor.ОбработчикHTTPСервисЗапроса.ObjectModule" id="73d6ba2b-5571-48a4-95c8-7544208b1305.0" configVersion="95febbaa18b146d21acaf471b90f2573d761bbbf"/>
 		<Metadata name="DataProcessor.ОбработчикHTTPСервисОтвета" id="52e11a2e-9f8f-453c-bb8c-4c1fa1c6d02b" configVersion="6ff53ef25483e711eb90a9cbae972b06b9989ace"/>
-		<Metadata name="DataProcessor.ОбработчикHTTPСервисОтвета.ObjectModule" id="52e11a2e-9f8f-453c-bb8c-4c1fa1c6d02b.0" configVersion="ee138506bf173c3514fa9ff298dd1e8a90b3309f"/>
+		<Metadata name="DataProcessor.ОбработчикHTTPСервисОтвета.ObjectModule" id="52e11a2e-9f8f-453c-bb8c-4c1fa1c6d02b.0" configVersion="c7b72ef44a7d65e8a4e7be721aeefc9d4fb7608a"/>
+		<Metadata name="InformationRegister.ЛогHTTPЗапросов" id="2982e3f0-a30a-427c-947f-b00bd8a0317a" configVersion="15224182665926f803ea8c81857a7a5a8e25d688">
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Dimension.ИдентификаторЗапроса" id="1091c3f6-2099-48e0-bf69-4e1b64c4cc5e"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Resource.Запрос" id="25fa02fc-ff79-4037-92ad-77f1647ed36e"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Resource.Ресурс" id="525b4aab-ae91-4f11-a366-194c8422fd01"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Resource.КодСостояния" id="5ea9a683-00d5-4e27-afea-a4bbe2576eb0"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Resource.Ответ" id="ab12b54e-77b2-4dfa-a838-548812ed7990"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Dimension.HTTPСервис" id="b266e845-188d-4b63-9fbe-dddecd2e4aca"/>
+			<Metadata name="InformationRegister.ЛогHTTPЗапросов.Resource.Метод" id="d33a848a-d5ff-45a6-8c3c-e6aa77129adf"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЛогHTTPЗапросов.Help" id="2982e3f0-a30a-427c-947f-b00bd8a0317a.0" configVersion="06d73d53e60e0edb9dbf8e7fe3c46ebcc302012f"/>
+		<Metadata name="InformationRegister.ЛогHTTPЗапросов.ManagerModule" id="2982e3f0-a30a-427c-947f-b00bd8a0317a.2" configVersion="b95facda2abeb1543bdb3f68420c75c9392c0906"/>
+		<Metadata name="InformationRegister.ЛогHTTPЗапросов.RecordSetModule" id="2982e3f0-a30a-427c-947f-b00bd8a0317a.1" configVersion="cc3ab05ada6af27b508390293b48af8444c1ac96"/>
 		<Metadata name="Role.ИзменениеHTTPСервисов" id="fdbf3bec-3c80-45b6-a115-a7ea9751998b" configVersion="d7c4b1853927d663f9820d54f3d323f8b5b2ce4d"/>
-		<Metadata name="Role.ИзменениеHTTPСервисов.Rights" id="fdbf3bec-3c80-45b6-a115-a7ea9751998b.0" configVersion="1c7993b5d49b7eb69fac9c0861f42fd05fc643f3"/>
+		<Metadata name="Role.ИзменениеHTTPСервисов.Rights" id="fdbf3bec-3c80-45b6-a115-a7ea9751998b.0" configVersion="1b95642060f958207e59b72579e462c196a3f240"/>
 		<Metadata name="Role.ЧтениеHTTPСервисов" id="d25f6e6a-c2d1-4aee-b55a-5cc3cc024292" configVersion="7525033d9ec12bde2b0033630393ab8fb57c1203"/>
-		<Metadata name="Role.ЧтениеHTTPСервисов.Rights" id="d25f6e6a-c2d1-4aee-b55a-5cc3cc024292.0" configVersion="f86b623b421db6ee0ef4560777c31ee6cd487e33"/>
-		<Metadata name="Subsystem.HTTPСервисы" id="9e84f6a6-a82b-4fbf-8d65-0c78aea4f9dc" configVersion="a172977543a51d6a3506d90991b4c7f1a770ec47"/>
-		<Metadata name="Subsystem.HTTPСервисы.CommandInterface" id="9e84f6a6-a82b-4fbf-8d65-0c78aea4f9dc.1" configVersion="64f3cb3db88dd7b8c6ba1d04467f51077527b08c"/>
+		<Metadata name="Role.ЧтениеHTTPСервисов.Rights" id="d25f6e6a-c2d1-4aee-b55a-5cc3cc024292.0" configVersion="c258dfa3cf4487f20a1c711fd292742b8c607d2a"/>
+		<Metadata name="Subsystem.HTTPСервисы" id="9e84f6a6-a82b-4fbf-8d65-0c78aea4f9dc" configVersion="74ec5bb4462267ae702e3088ffe8b75f55c668ef"/>
+		<Metadata name="Subsystem.HTTPСервисы.CommandInterface" id="9e84f6a6-a82b-4fbf-8d65-0c78aea4f9dc.1" configVersion="ac312771474374a53ba0f191e5753a1a1b9634a6"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
